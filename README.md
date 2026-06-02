@@ -44,13 +44,7 @@ End-to-end analytics pipeline on a synthetic e-commerce dataset.
 - 🗄️ Backend Data Systems Developer @ **BalanX Bio** *(Remote)*
 - 📚 Google Data Analytics Professional Certificate *(In Progress)*
 ---
- 
-## 📈 GitHub Stats
- 
-![Faheem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faheem-fayaz&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faheem-fayaz&layout=compact&theme=default&hide_border=true)
- 
----
+
  
 ## 📫 Connect with Me
  
